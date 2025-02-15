@@ -5,7 +5,9 @@ A lightweight and customizable library that enables swipe gestures to reveal act
 
 ## Features:
 ✅ Swipe to reveal options (e.g., Delete, Archive)
+
 ✅ Further swipe to perform action
+
 ✅ Fully customizable animations and gestures
 
 Effortlessly integrate SwipeTo into your project and enhance user interactions! 🚀
